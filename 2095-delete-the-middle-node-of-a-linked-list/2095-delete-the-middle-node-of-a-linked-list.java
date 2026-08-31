@@ -15,23 +15,13 @@ class Solution {
         }
         ListNode hare=head;
         ListNode turtle=head;
-        while(hare.next!=null && hare.next.next!=null){
+        while(hare!=null && hare.next!=null){
             hare=hare.next.next;
             turtle=turtle.next;
         }
-        int size=0;
-        ListNode currnode=head;
-        while(currnode!=null){
-            currnode=currnode.next;
-            size++;
-        }
-        if (size%2!=0){
-            return turtle;
-        }
-        return turtle.next;
+        return turtle;
     }
     public ListNode deleteMiddle(ListNode head) {
-        
 
             if (head == null || head.next == null) {
                 return null;
