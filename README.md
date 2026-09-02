@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
