@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0328-odd-even-linked-list) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -79,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0707-design-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
