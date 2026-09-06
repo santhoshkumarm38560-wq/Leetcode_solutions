@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
+| [2487-remove-nodes-from-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
