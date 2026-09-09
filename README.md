@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0445-add-two-numbers-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
