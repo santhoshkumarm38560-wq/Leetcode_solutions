@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0445-add-two-numbers-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
