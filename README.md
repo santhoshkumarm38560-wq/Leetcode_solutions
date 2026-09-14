@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -156,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
