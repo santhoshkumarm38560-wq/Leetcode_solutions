@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Doubly-Linked List
@@ -159,6 +163,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
