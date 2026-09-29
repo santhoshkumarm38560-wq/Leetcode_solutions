@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0066-plus-one) |
