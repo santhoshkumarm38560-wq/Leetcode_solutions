@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0075-sort-colors) |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
