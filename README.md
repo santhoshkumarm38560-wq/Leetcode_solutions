@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
