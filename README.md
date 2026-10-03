@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Array
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
