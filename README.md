@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
