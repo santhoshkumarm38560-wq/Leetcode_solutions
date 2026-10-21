@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2235-add-two-integers](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
