@@ -1,7 +1,4 @@
 class Solution {
-    public double find_average(double total,int k){
-        return total/k;
-    }
     public double findMaxAverage(int[] arr, int k) {
         double total=0;
         double maxavg=Double.NEGATIVE_INFINITY;
