@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
@@ -323,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
