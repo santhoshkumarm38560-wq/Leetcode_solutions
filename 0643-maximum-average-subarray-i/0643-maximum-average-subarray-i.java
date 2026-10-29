@@ -1,24 +1,21 @@
 class Solution {
     public double findMaxAverage(int[] arr, int k) {
-        double total=0;
-        double maxavg=Double.NEGATIVE_INFINITY;
-        if (arr.length==1 && k==1){
-            return arr[0]/k;
-        }
-        for(int i=0;i<k-1;i++){
-            total=total+arr[i];
+        int sum=0;
+        int start=0;
+        int end=k-1;
+        for (int i=start;i<=end;i++){
+            sum=sum+arr[i];
         } 
-        int j=0;
-        for(int i=k-1;i<arr.length;i++){
-            total=total+arr[i];
-
-            double average=total/k;
-
-            maxavg=Math.max(maxavg,average);
-
-            total=total-arr[j++];
-
+        int maxsum=sum;
+        start++;
+        end++;
+        while (end<arr.length){
+            sum=sum-arr[start-1];
+            sum=sum+arr[end];
+            maxsum=Math.max(maxsum,sum);
+            start++;
+            end++;
         }
-        return maxavg;
+        return (double)maxsum/k;
     }
 }
