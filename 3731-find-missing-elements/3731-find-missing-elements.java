@@ -1,14 +1,18 @@
 class Solution {
     public List<Integer> findMissingElements(int[] arr) {
         List<Integer> list=new ArrayList<>();
-        Arrays.sort(arr);
-        int start=arr[0];
+        HashSet<Integer> set=new HashSet<>();
+        int min=Integer.MAX_VALUE;
+        int max=Integer.MIN_VALUE;
         for (int i=0;i<arr.length;i++){
-            while(start<arr[i]){
-                list.add(start);
-                start++;
+            set.add(arr[i]);
+            min=Math.min(min,arr[i]);
+            max=Math.max(max,arr[i]);
+        }
+        for (int i=min;i<=max;i++){
+            if (!set.contains(i)){
+                list.add(i);
             }
-            start=arr[i]+1;
         }
         return list;
     }
