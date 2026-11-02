@@ -3,17 +3,12 @@ class Solution {
         List<Integer> list=new ArrayList<>();
         Arrays.sort(arr);
         int start=arr[0];
-        int  end=arr[arr.length-1];
-        int i=0;
-        while (start!=end){
-            if(arr[i]!=start){
+        for (int i=0;i<arr.length;i++){
+            while(start<arr[i]){
                 list.add(start);
                 start++;
             }
-            else{
-                i++;
-                start++;
-            }
+            start=arr[i]+1;
         }
         return list;
     }
