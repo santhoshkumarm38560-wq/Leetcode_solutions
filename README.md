@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0622-design-circular-queue) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -345,4 +349,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0622-design-circular-queue) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
