@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0258-add-digits) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
