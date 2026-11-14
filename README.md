@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0415-add-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
