@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0415-add-strings) |
+| [0796-rotate-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [2000-reverse-prefix-of-word](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
