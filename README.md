@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [2706-buy-two-chocolates](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [2000-reverse-prefix-of-word](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
