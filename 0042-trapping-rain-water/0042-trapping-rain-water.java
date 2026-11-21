@@ -1,24 +1,31 @@
 class Solution {
-    public static int[] prefixmax(int arr[]){
-        for (int i=0;i<arr.length-1;i++){
-            arr[i+1]=Math.max(arr[i],arr[i+1]);
-        }
-        return arr;
-    }
-    public static int[] suffixmax(int arr[]){
-        for (int i=arr.length-1;i>0;i--){
-            arr[i-1]=Math.max(arr[i],arr[i-1]);
-        }
-        return arr;
-    }
     public int trap(int[] arr) {
+        int left=0;
+        int right=arr.length-1;
+        int leftmax=0;
+        int rightmax=0;
         int total=0;
-        int left[]=prefixmax(arr.clone());
-        int right[]=suffixmax(arr.clone());
-        for (int i=0;i<arr.length;i++){
-            int leftmax=left[i];
-            int rightmax=right[i];
-            total+=Math.min(leftmax,rightmax)-arr[i];
+        while (left<right){
+            if (arr[left]<=arr[right]){
+                if (leftmax>arr[left]){
+                    total+=leftmax-arr[left];
+                    left++;
+                }
+                else{
+                    leftmax=Math.max(leftmax,arr[left]);
+                    left++;
+                }
+            }
+            else{
+                if  (rightmax>arr[right]){
+                    total+=rightmax-arr[right];
+                    right--;
+                }
+                else{
+                    rightmax=Math.max(rightmax,arr[right]);
+                    right--;
+                }
+            }
         }
         return total;
     }
