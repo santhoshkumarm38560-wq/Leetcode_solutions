@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2706-buy-two-chocolates](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2706-buy-two-chocolates) |
 | [2965-find-missing-and-repeated-values](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
 | [2000-reverse-prefix-of-word](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
