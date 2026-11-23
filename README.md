@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0415-add-strings) |
+| [0541-reverse-string-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [2000-reverse-prefix-of-word](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
