@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
