@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1472-design-browser-history) |
+| [1544-make-the-string-great](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/santhoshkumarm38560-wq/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
